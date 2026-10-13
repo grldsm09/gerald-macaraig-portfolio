@@ -202,6 +202,8 @@ const skillGroups = [
       "BM25 ranking",
       "Vector search",
       "Prompt & API integration",
+      "Turbovec / Turboquant:,
+      "Large Language Models",
     ],
   },
   {
@@ -412,7 +414,7 @@ export default function App() {
           <div className="hero-grid">
             <div className="hero-copy">
               <div className="hero-kicker" id="home">
-                <span /> Computer Engineering · Software · AI Systems
+                <span /> Computer Engineer · Software · AI Systems
               </div>
               <h1>
                 Engineering intelligent solutions through{" "}
